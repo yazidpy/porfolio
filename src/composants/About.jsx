@@ -10,9 +10,9 @@ const About = () => {
                     <span className='text-slate-200 text-base min-[1200px]:text-xl max-[1000px]:text-sm min-[1400px]:text-3xl'>Je m'appelle <span className='text-yellow-500'> Aliche Yazid </span> et je suis né le 29 octobre 2001. Je suis actuellement étudiant en <span className='text-yellow-500'>Master 2 Système d'Information Avancés </span>à l'Université de Béjaia. En 2019, j'ai obtenu mon baccalauréat série mathématique technique, et j'ai poursuivi mes études en informatique pour obtenir une licence.
                         Fort d'une passion pour l'informatique, j'ai acquis des connaissances avancées dans ce domaine, notamment en développement web et en applications bureautiques. Mon parcours académique et mes expériences m'ont permis de développer des compétences solides dans la création de sites web et d'applications, en utilisant les dernières technologies et les meilleures pratiques.</span>
                       </div>
-                       <div className="">
+                       {/* <div className="">
                         <img src="./src/assets/6.jpg" className='rounded-l-full max-[800px]:rounded-none min-[1400px]:w-[700px]'/>
-                        </div>
+                        </div> */}
                 </div>
         </section>
     );

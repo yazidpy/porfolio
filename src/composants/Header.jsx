@@ -18,7 +18,6 @@ const Header = () => {
         })
         close_sidebar.addEventListener('click',function(){
             sidebar.classList.remove('right-[0]')
-
         })
     }, [])
     return (
